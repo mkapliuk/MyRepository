@@ -1,0 +1,7 @@
+table{color:white; font-size:120%; background-color:grey;}
+ table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse !important;
+  
+}
+
